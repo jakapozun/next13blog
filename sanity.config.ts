@@ -12,8 +12,6 @@ export default defineConfig({
   title: 'next13blogSanity',
   projectId,
   dataset,
-
-  //TODO: 28.24min
   plugins: [deskTool(), visionTool()],
 
   schema: {
